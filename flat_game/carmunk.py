@@ -1,3 +1,7 @@
+### Update
+# pip install pymunk==4.0.0
+# Or change error to from pymunk.pygame_util import DrawOptions as draw
+
 import random
 import math
 import numpy as np
